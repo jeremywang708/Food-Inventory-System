@@ -1,17 +1,3 @@
-/**
- * CET - CS Academic Level 3
- * <p>
- * The Vegetable class extends the FoodItem class and represents a specific type of food item
- * that is a vegetable. It has an additional field, "farmName", to store the name of the
- * farm supplier.
- * <p>
- * Student Name: Yun Wang
- * Student Number: 041069121
- * Course: CST8130 - Data Structures
- *
- * @author/Yun Wang, taught by Professor: James Mwangi PhD.
- */
-
 import java.util.Scanner;
 
 /**
