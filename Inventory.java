@@ -1,13 +1,3 @@
-/**
- * CET - CS Academic Level 3
- * This class contains the inventory array and its relevant methods
- * Student Name: Yun Wang
- * Student Number: 041069121
- * Course: CST8130 - Data Structures
- *
- * @author/Yun Wang, taught by Professor: James Mwangi PhD.
- */
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
