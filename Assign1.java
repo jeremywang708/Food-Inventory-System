@@ -1,13 +1,3 @@
-/**
- * CET - CS Academic Level 3
- * This class contains the menu and main method to start the program
- * Student Name: Yun Wang
- * Student Number: 041069121
- * Course: CST8130 - Data Structures
- *
- * @author/Yun Wang, taught by Professor: James Mwangi PhD.
- */
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
