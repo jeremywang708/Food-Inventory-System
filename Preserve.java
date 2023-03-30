@@ -1,17 +1,3 @@
-/**
- * CET - CS Academic Level 3
- * <p>
- * The Preserve class extends the FoodItem class and represents a specific type of food item
- * that is a preserve. It has an additional field, "jarSize", to store the size of the jar
- * in milliliters.
- * <p>
- * Student Name: Yun Wang
- * Student Number: 041069121
- * Course: CST8130 - Data Structures
- *
- * @author/Yun Wang, taught by Professor: James Mwangi PhD.
- */
-
 import java.util.Scanner;
 
 /**
