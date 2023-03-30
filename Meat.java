@@ -1,17 +1,3 @@
-/**
- * CET - CS Academic Level 3
- * <p>
- * The Meat class extends the FoodItem class and represents a type of food item that is meat.
- * It has a private instance variable "slaughterHouse" that holds the name of the slaughterhouse
- * where the meat was processed.
- * <p>
- * Student Name: Yun Wang
- * Student Number: 041069121
- * Course: CST8130 - Data Structures
- *
- * @author/Yun Wang, taught by Professor: James Mwangi PhD.
- */
-
 import java.util.Scanner;
 
 /**
